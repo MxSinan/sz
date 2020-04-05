@@ -39,7 +39,7 @@
     "eslint": "^5.16.0",
     "jest": "24.8.0",
     "metro-react-native-babel-preset": "0.54.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "react-test-renderer": "16.6.3"
   },
   "jest": {
